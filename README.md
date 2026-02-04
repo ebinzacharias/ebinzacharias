@@ -1,8 +1,10 @@
 # **Ebin Zacharias**
 
+I design before I build :)
+
 ### **Distributed Systems Architecting • AI Engineering • Edge Computing**
 
-**Architecture-driven engineering mindset:** I design before I build.  
+**Architecture-driven engineering mindset:**   
 
 I work at the intersection of cloud-native systems, AI pipelines, and real-time edge computing — designing and delivering architectures built to run reliably in production.
 
