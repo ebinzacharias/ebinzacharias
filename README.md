@@ -1,6 +1,6 @@
 # **Ebin Zacharias**
 
-I design before I build :)
+**I design before I build :)**
 
 ### **Distributed Systems Architecting • AI Engineering • Edge Computing**
 
