@@ -1,8 +1,8 @@
 # **Ebin Zacharias**
-
+**AI & Edge Systems • System Architecture • Cloud-Native Engineering**
 **I design before I build :)**
 
-### **AI & Edge Systems • System Architecture • Cloud-Native Engineering**
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
