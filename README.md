@@ -8,6 +8,7 @@
 
 I work at the intersection of cloud-native systems, AI pipelines, and real-time edge computing — designing and delivering architectures built to run reliably in production.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 ## **Tech Stack**
 
@@ -23,7 +24,7 @@ I work at the intersection of cloud-native systems, AI pipelines, and real-time 
 ### **Edge & Streaming Systems**  
 ![NVIDIA Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white) ![DeepStream](https://img.shields.io/badge/DeepStream-76B900?style=flat&logo=nvidia&logoColor=white) ![MediaMTX](https://img.shields.io/badge/MediaMTX-000000?style=flat&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ## **Connect**
 
