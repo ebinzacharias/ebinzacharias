@@ -4,6 +4,10 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=ebinzacharias&color=1A2B4B&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
 
 ## **Tech Stack**
 
