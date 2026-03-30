@@ -2,9 +2,6 @@
 ### **AI & Edge Systems • System Architecture • Cloud-Native Engineering** 
 <p><em>I design before I build :)</em></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <table>
   <tr>
     <td width="50%" align="center">
