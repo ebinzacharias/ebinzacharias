@@ -1,6 +1,5 @@
 # **Ebin Zacharias**
 ### **AI & Edge Systems • System Architecture • Cloud-Native Engineering** 
-<p><em>I design before I build :)</em></p>
 
 <table>
   <tr>
