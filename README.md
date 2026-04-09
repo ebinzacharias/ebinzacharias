@@ -33,8 +33,3 @@
 
 ### **Edge & Streaming Systems**  
 ![NVIDIA Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white) ![DeepStream](https://img.shields.io/badge/DeepStream-76B900?style=flat&logo=nvidia&logoColor=white) ![MediaMTX](https://img.shields.io/badge/MediaMTX-000000?style=flat&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
-
-## **Connect**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ebin-zacharias/)
-[![Medium](https://img.shields.io/badge/-Medium-1f1f1f?style=for-the-badge\&logo=medium)](https://medium.com/@ebinzacharias)
