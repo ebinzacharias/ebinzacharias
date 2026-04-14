@@ -5,7 +5,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true&cache_bust=123" />
+        <img src="https://streak-stats.demolab.com?user=ebinzacharias&theme=dark&hide_border=true&include_all_commits=true" />
       </a>
     </td>
     <td width="50%" valign="top">
