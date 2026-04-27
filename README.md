@@ -1,6 +1,8 @@
 # **Ebin Zacharias**
 ### **AI & Edge Systems • System Architecture • Cloud-Native Engineering** 
 
+<img src="https://github-readme-stats.vercel.app/api?username=ebinzacharias&show_icons=true&theme=dark" />
+
 <table>
   <tr>
     <td width="50%" align="center">
