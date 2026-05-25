@@ -33,3 +33,6 @@
 
 ### **Edge & Streaming Systems**  
 ![NVIDIA Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white) ![DeepStream](https://img.shields.io/badge/DeepStream-76B900?style=flat&logo=nvidia&logoColor=white) ![MediaMTX](https://img.shields.io/badge/MediaMTX-000000?style=flat&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+
+### **Web & Full-Stack**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
